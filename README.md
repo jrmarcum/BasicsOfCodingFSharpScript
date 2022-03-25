@@ -1,1 +1,1 @@
-# FSharpScriptByExample
+# Basics of Coding F# Script
